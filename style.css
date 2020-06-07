@@ -1,0 +1,84 @@
+
+body{
+    background: peachpuff;
+    margin: 0;
+}
+
+
+header {
+        font-family: lobster;
+        background-color: black;
+        text-align: center;
+        color:white;
+        margin-top: 0;
+        width: 100%;
+        border: 20px;
+        
+
+}
+h1{
+        margin-top: 0;
+        padding: 80px;
+        font-family: lobster;
+      
+}
+div{
+    text-align: center;
+}
+.cush1{
+    padding: 30px;
+}
+.bioHead{
+    font-family: Piedra;
+}
+
+.links{
+    text-align: center;
+    }
+p{    
+    font-size: large;
+    font-family: Metal Mania;
+    }
+
+.bioPic{
+    text-align: center;
+    border-radius: 30px;
+    width: 300px;
+    height: 350px;
+    }
+.bioPic2{
+    width: 500px;
+    height: 300px;
+}
+button{
+    background-color: black;
+    font-family: monospace;
+    font-size: large;
+    padding: 6px;
+    margin-top: 10px;
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 20px;
+}
+/* bio css */
+
+.aquinas{
+    display: inline-block;
+    padding: 30px;
+}
+.aqimage{
+    float: left;
+}
+.aquinas-content,.ashcontent{
+    text-align: center;
+    display: flex;
+    padding: 100px;
+}
+.ashimage{
+    float: right;
+}
+.ashesi{
+    padding: 30px;
+}
