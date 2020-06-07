@@ -16,6 +16,9 @@ header {
         
 
 }
+.but{
+    text-decoration: none;
+}
 h1{
         margin-top: 0;
         padding: 80px;
